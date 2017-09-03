@@ -9,10 +9,10 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.think.maven</groupId>
-	<artifactId>maven_pom_submodule</artifactId>
+	<artifactId>maven_pom_auth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>maven_pom_submodule Maven Webapp</name>
+	<name>maven_pom_auth Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<!-- spring boot test -->
@@ -28,6 +28,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>maven_pom_submodule</finalName>
+		<finalName>maven_pom_auth</finalName>
 	</build>
 </project>
